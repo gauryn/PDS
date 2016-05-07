@@ -1,0 +1,15 @@
+ascii
+"spamassassin-talk-admin@example.sourceforge.net" <spamassassin-talk-admin@example.sourceforge.net>
+"postmaster@jpci.net" <postmaster@jpci.net>
+Failed mail: Banned or potentially offensive material
+From nobody Sun May  1 12:23:46 2016
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Your message was not delivered to
+ 
+    daz@jpci.net
+ 
+This mail message contains banned or potentially offensive text.
+

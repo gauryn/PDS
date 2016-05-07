@@ -1,0 +1,30 @@
+- Probability of a word appearing in ham/ spam email
+- Frequency of 'spammy' words: e.g. Click here!, free, viagra
+- Frequency of misspelt words
+- Capitalization of content
+- Presence of links in text
+- Words per page
+- black-listed IP Addresses
+
+Check out
+- Paul Graham Algorithm
+
+	1 Corpus: Spam Email 
+	1 Corpus: Non-Spam Email
+
+	Token --> Number of occurences --> Probability that email containing it is spam
+
+	So far:
+	- token and number of occurences for spam & ham
+	- total number of emails: spam and ham
+
+	Issues:
+	- How to handle emails without body tags: kind of resolved using nltk
+	- How to handle reply message threads which have multiple for/ to
+
+	Enhancements:
+	- count number of i/ p/ link tags in body of message
+
+- TensorFlow
+- Spacey
+

@@ -1,0 +1,9 @@
+ascii
+yyyy@spamassassin.taint.org, alex@evilal.com, thomas@wibble.to
+mailman-owner@lists.boxhost.net
+Irish Internet Users subscription notification
+billy@billyglynn.com has been successfully subscribed to Irish
+Internet Users.
+
+
+
