@@ -7,7 +7,7 @@ import os, sys
 
 MIN_WORD_COUNT = 5
 RARE_WORD_PROB = 0.5
-EXCLUSIVE_WORD_PROB = 0.9
+EXCLUSIVE_WORD_PROB = 0.99
 
 def createWordDict(fp):
 	wordDict = {}
