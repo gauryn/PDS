@@ -4,7 +4,7 @@
 # 2. Get Spam Probabilities for words
 # 3. Find Interesting words
 # 4. Add probability of interesting words
-# 5. If total prob > 0.9 ==> Spam, else ham
+# 5. If total prob > 0.99 ==> Spam, else ham
 
 
 from ExtractContent import ExtractSubPayload
